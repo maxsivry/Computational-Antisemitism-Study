@@ -1,6 +1,6 @@
 This project was from a paper a friend and I wrote called:
 
- An Attempt at Quantifying Antisemitism on Twitter from Kanye West; an Exploration in the Perils of Text Classification and Annotation Schemes![image](https://github.com/user-attachments/assets/74449941-4ff6-4849-800b-6111c270aa03)
+[image](https://github.com/user-attachments/assets/74449941-4ff6-4849-800b-6111c270aa03)
 
 
 
