@@ -1,6 +1,7 @@
 This project was from a paper a friend and I wrote called:
 
-[image](https://github.com/user-attachments/assets/74449941-4ff6-4849-800b-6111c270aa03)
+![image](https://github.com/user-attachments/assets/491a65b1-f895-4bcc-a611-4ed42eb01907)
+
 
 
 
