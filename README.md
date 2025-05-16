@@ -9,7 +9,7 @@ Two DistilBERT classifiers were trained with HuggingFace Transformers:
 1. Our custom model – 700 tweets hand-labeled (IHRA definition) by four annotators that we trained and employed on our dataset  
 2. **institute for the study of contemporary antisemitism “gold-standard” model** – 6 000 pre-annotated tweets from Jikeli *et al.*  
 
-The models and dataset can be found on my huggingface account: <https://huggingface.co/mivry> **More than 30 downloads last month across the three**
+The models and dataset can be found on my huggingface account: <https://huggingface.co/mivry> **(30+ downloads last month alone in huggingface)**
 
 Here are some interesting graphics that coincide with Kanye's antisemitic tweet on October 8th 2022:  
 
